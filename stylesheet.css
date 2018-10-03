@@ -1,9 +1,20 @@
-.body {
+body {
     background-color: black;
 }
 h1{
     color:orange;
+    text-align:center;
 }
 h2{
     color:orange;
+    text-align:center;
+}
+p{
+    color:orange;
+    text-align:left;
+}
+img{
+    width:100px;
+    height:100px;
+    align:center;
 }
