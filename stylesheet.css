@@ -4,17 +4,33 @@ body {
 h1{
     color:orange;
     text-align:center;
+    border:10px solid orange;
+    font-size:50px;
 }
 h2{
     color:orange;
     text-align:center;
+    font-size:25px;
+    border:5px dotted orange;
 }
 p{
     color:orange;
     text-align:left;
+    text-indent: 
 }
-img{
-    width:100px;
-    height:100px;
-    align:center;
+img#OSU {
+    width:200px;
+    height:200px;
+    float:right;
+    border:3px solid orange;
+    margin:10px;
+    
+}
+p#main{
+    font-size:18px;
+    font-family:arial;
+    text-align:left;
+}
+p{
+    text-align:center;
 }
