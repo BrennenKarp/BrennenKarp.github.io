@@ -45,6 +45,8 @@ p.main{
 p{
     text-align:center;
 }
+/* Turns resume link into button.
+source: "https://stackoverflow.com/questions/710089/how-do-i-make-an-html-link-look-like-a-button" */
 .Link {
     font: bold 30px Arial;
     background-color: #CCCCCC;
