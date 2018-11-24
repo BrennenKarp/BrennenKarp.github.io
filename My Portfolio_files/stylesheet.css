@@ -1,7 +1,5 @@
 body {
     background-color: black;
-    width: 100%;
-    height: 100%;
 }
 h1{
     color:orange;
@@ -16,20 +14,20 @@ h2{
     border:5px dotted orange;
 }
 img.link1{
-    width:170px;
-    height:170px;
+    width:110px;
+    height:110px;
     border:3px solid orange;
     align-items: right;
 }
 img.link2{
-    width:170px;
-    height:170px;
+    width:110px;
+    height:110px;
     border:3px solid white;  
     align-items: left;
 }
 img.link3{
-    width:170px;
-    height:170px;
+    width:110px;
+    height:110px;
     border:3px solid orange;  
 }
 div.column{
@@ -41,12 +39,14 @@ p.main{
     text-align:left;
     text-indent: 30px;
     color: orange;
+    -webkit-text-stroke: 1px solid black;
 }
 p{
     text-align:center;
 }
 .Link {
     font: bold 30px Arial;
+    text-decoration: black;
     background-color: #CCCCCC;
     color: orange;
     padding: 2px 2px 2px 2px;
@@ -55,18 +55,3 @@ p{
     border-bottom: 1px solid #333333;
     border-left: 1px solid #CCCCCC;
   }
-.Link2 {
-      font: 15px Arial;
-      color: orange;
-  }
-a.Link2:hover {
-      color: white;
-  }
-a.Link:hover {
-    color: black;
-}
-p.stuff{
-    color: white;
-    font: 40px Arial;
-    text-align: left;
-}
