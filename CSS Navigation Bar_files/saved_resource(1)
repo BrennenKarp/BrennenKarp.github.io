@@ -1,32 +1,0 @@
-
-var ftGUID_3157578="3938A3C1C741E2";
-var ftConfID_3157578="11616312";
-var ftParams_3157578="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.w3schools.com%2Fcss%2Fcss_navbar.asp&cachebuster=182017.24944913434";
-var ftKeyword_3157578="";
-var ftCustom_3157578="";
-var ftSection_3157578="";
-var ftSegment_3157578="u3y,q4i,tg1";
-var ftSegmentList_3157578=[{s:'u3y'},{s:'q4i'},{s:'tg1'}];
-var ftRuleMatch_3157578="0";
-var ftTimestamp_3157578="1543089533";
-var ftGeoC2_3157578="us";
-var ftGeoState_3157578="nv";
-var ftGeoCity_3157578="las vegas";
-var ftISP_3157578="centurytel internet holdings inc.";
-var ftSpeed_3157578="broadband";
-var ftDMA_3157578="839";
-var ftLong_3157578="-115.162";
-var ftLat_3157578="36.1834";
-var ftPostal_3157578="89106";
-var ftTimeZone_3157578="-800";
-var ftMobileCarrier_3157578="";
-var ftImp3157578 = {};
-ftImp3157578.privacy = "x";
-ftImp3157578.guidAge = "42";
-ftImp3157578.impID = "AF581918-A669-602E-149B-4F9271D381D9";
-
-ftImp3157578.ft_tpplid = "";
-ftImp3157578.ft_c = {};
-
-document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/315/3157578/2287303/js/j-3157578-2287303.js" id="ftscript_m3157578" name="ftscript_m3157578"></scr'+'ipt>');
-                    
