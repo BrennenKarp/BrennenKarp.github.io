@@ -1,0 +1,61 @@
+body {
+    font-family: "HelveticaNeue"; 
+    background-color: white; 
+  }
+h2 {
+    font-family: "Linex Sans Bold";
+    font-size: 25pt;
+    color:#5BC2E7;
+}
+h1 {
+    color:#5BC2E7;
+    text-align: center;
+    font-size: 35px;
+    font-family: "True North";
+    outline-style: solid;
+    outline-color: #5BC2E7;
+    outline-width: 7px; 
+}
+p{
+    color:#5BC2E7;
+    font-family: Arial;
+    text-align: left;
+    text-indent: 20px;
+    font-size: 18pt;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    padding: 75px;
+    object-fit: contain;
+    display: block;
+    background-image: url("dark.jpg");
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #5BC2E7;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
