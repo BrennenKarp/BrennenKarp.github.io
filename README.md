@@ -1,1 +1,2 @@
 BrennenKarp1.github.io
+This porfolio was made to connect me with future employers and buisnesses. It has links to my Stack Overflow and Github accounts along with my resume for interested employers. It also has a small paragraph about myself. Along with bringing me closer with employers it also taught me the basics of HTML coding. 
